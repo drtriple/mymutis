@@ -1,0 +1,5 @@
+[03-Jun-2022 19:15:56 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home2/mymutisc/public_html/POO/controlador/ControladorGrupoxGradoxUsuario.php on line 14
+[03-Jun-2022 19:16:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home2/mymutisc/public_html/POO/controlador/ControladorGrupoxGradoxUsuario.php on line 14
+[03-Jun-2022 19:17:25 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home2/mymutisc/public_html/POO/controlador/ControladorGrupoxGradoxUsuario.php on line 14
+[07-Jun-2022 10:55:32 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mymutisc/public_html/POO/vista/docente/index.php:16) in /home2/mymutisc/public_html/POO/vista/docente/index.php on line 99
+[07-Jun-2022 10:56:12 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mymutisc/public_html/POO/vista/docente/index.php:16) in /home2/mymutisc/public_html/POO/vista/docente/index.php on line 99
